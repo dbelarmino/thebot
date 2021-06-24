@@ -21,10 +21,10 @@
 </p>
 
 <h1 align="center">
-    <img alt="TheBot" title="#TheBot" src="https://user-images.githubusercontent.com/36802445/123189693-aa191f00-d474-11eb-8927-52cdfb5cd6cf.png" />
 </h1>
 
 <h1 align="center">
+    <img alt="TheBot" title="#TheBot" src="https://user-images.githubusercontent.com/36802445/123189693-aa191f00-d474-11eb-8927-52cdfb5cd6cf.png" />
     <img alt="TheBot" title="#TheBot" src="https://user-images.githubusercontent.com/36802445/123190931-cfa72800-d476-11eb-8728-8fc42eb2ff78.png" />
 </h1>
 
