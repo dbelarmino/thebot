@@ -125,7 +125,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - **[dotenv](https://github.com/motdotla/dotenv)**
 - **[uuid](https://github.com/uuidjs/uuid)**
 
-> Veja o arquivo [package.json](https://github.com/douglasbelarmino/thebot/server/blob/master/package.json)
+> Veja o arquivo [package.json](https://github.com/douglasbelarmino/thebot/blob/main/server/package.json)
 
 #### **Web** ([ReactJS](https://nextjs.org/) + [TypeScript](https://www.typescriptlang.org/))
 
@@ -133,7 +133,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - **[Styled Components](https://styled-components.com)**
 - **[Axios](https://github.com/axios/axios)**
 
-> Veja o arquivo [package.json](https://github.com/douglasbelarmino/thebot/web/blob/master/package.json)
+> Veja o arquivo [package.json](https://github.com/douglasbelarmino/thebot/blob/main/web/package.json)
 
 #### **Utilitários**
 
