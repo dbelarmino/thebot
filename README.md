@@ -44,7 +44,7 @@
 
 ## 💻 Sobre o projeto
 
-♻️ The Bot - é uma aplicação de chatbot onde você envia mensagem para ele e ele responde sua mensagem.
+♻️ The Bot - é uma aplicação de chatbot onde você interage com o ele.
 
 ---
 
