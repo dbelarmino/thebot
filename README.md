@@ -174,7 +174,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 📝 Licença
 
-Este projeto esta sobe a licença [MIT](https://github.com/douglasbelarmino/thebot/blob/master/LICENSE).
+Este projeto esta sobe a licença [MIT](https://github.com/douglasbelarmino/thebot/blob/main/LICENSE).
 
 Feito com ❤️ por Douglas Belarmino 👋🏽 [Entre em contato!](https://www.linkedin.com/in/douglas-belarmino)
 
